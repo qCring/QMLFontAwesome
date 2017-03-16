@@ -8,7 +8,7 @@ Resources for **[FontAwesome](http://fontawesome.io)** support in your **[QML](h
 	<img src="doc/img.png" width="100%" />
 </center>
 
-##About
+## About
 Some resources to get **[FontAwesome](http://fontawesome.io)** up and running in your **[QML](http://doc.qt.io/qt-5/qtqml-index.html)** application real quick. You'll need three simple steps:
 
 1. **Copy** the resources into your project
@@ -31,7 +31,7 @@ Some resources to get **[FontAwesome](http://fontawesome.io)** up and running in
 
 Check out the **[FontAwesome cheatsheet](http://fontawesome.io/cheatsheet/)** to find individual icon names. By convention, the same names are used as listed in the cheatsheet. The only difference is that dashes are replaced with underscores.
 
-##License
+## License
 ![License](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)
 
 Copyright (c) 2017, Alexander Eduard Szalo
